@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productrerify",
+        "uuid": 10667658,
+        "checksum": "146h1p"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
